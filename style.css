@@ -1,0 +1,62 @@
+body{
+    text-align: center;
+    
+}
+
+.main{
+    display: flex;
+    justify-content: center;
+    
+}
+
+#score{
+display: flex;
+justify-content: center;
+
+
+}
+
+.divss{
+height: 150px;
+width: 150px;
+border: 6px solid black;
+margin: 10px;
+border-radius: 17px;
+}
+h4{
+    margin: 0px 500px 0px -200px;
+}
+
+#red{
+    background-color:rgb(251, 11, 11);
+}
+#pink{
+    background-color: rgba(243, 124, 143, 0.813);
+}
+#yellow{
+    background-color: yellow;
+}
+
+#blue{
+    background-color: rgb(1, 216, 216);
+}
+
+#orange{
+    background-color: orange;
+}
+
+#purple{
+    background-color: rgb(161, 68, 248);
+}
+
+#colorgreen{
+    background-color: green;
+}
+#colorwhite{
+    background-color: white;
+}
+
+span{
+    
+margin-left: 50px;
+}
